@@ -34,3 +34,12 @@ export const documentTypes = [
     'P', // Pasaporte
     'G', // Gobierno
 ];
+
+export const domiciliacionBanks = [
+    { name: 'Banesco', code: 'BA', color: '#00703C' },
+    { name: 'Mercantil', code: 'ME', color: '#003DA5' },
+    { name: 'BNC', code: 'BN', color: '#1B3A6B' },
+    { name: 'Venezuela', code: 'VE', color: '#0066B3' },
+    { name: 'Provincial', code: 'PR', color: '#00529B' },
+    { name: 'Bancamiga', code: 'BG', color: '#00A651' },
+];
