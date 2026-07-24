@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "dev": "gen-lang-client-0359101987",
+    "prod": "pasarela-de-pagos-475314"
+  },
+  "targets": {
+    "gen-lang-client-0359101987": {
+      "hosting": {
+        "boneappetit-pagos": [
+          "boneappetit-pagos"
+        ]
+      }
+    },
+    "pasarela-de-pagos-475314": {
+      "hosting": {
+        "boneappetit-pagos-prod": [
+          "boneappetit-pagos-prod"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
